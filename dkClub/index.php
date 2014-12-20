@@ -20,6 +20,9 @@ ini_set("arg_separator.output","&amp;");
 session_start();
 
 $_SESSION["counter"] = "ok";
+if(!isset($_SESSION['login'])){
+	$_SESSION['login'] = false;
+}
 counter_up();
 
 
@@ -150,8 +153,8 @@ if(isset($_GET['template'])){
 }else{
     $template = file_get_contents("templates/default");
 }
-$intern = intern_get_menu();
-$template = str_replace("%intern%", $intern, $template);
+//$intern = intern_get_menu();
+//$template = str_replace("%intern%", $intern, $template);
 
 #<a href="index.php?site=next_day">nächster Fahrtag</a>
 

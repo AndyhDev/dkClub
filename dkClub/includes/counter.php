@@ -7,25 +7,15 @@
 #}
 function counter_up(){
     $db = database_connect();
-    $ip = $_SERVER['REMOTE_ADDR'];
-    
-    $result = mysql_query("SELECT count(*) FROM ips WHERE ip='$ip'");
+        
+    $result = mysql_query("SELECT count(*) FROM statistic WHERE day=CURDATE();");
     
     $count = mysql_result($result, 0);
     if($count == 0){
-        mysql_query("INSERT INTO ips (ip, date) VALUES('$ip', CURDATE());");
-        
-        $result = mysql_query("SELECT count(*) FROM statistic WHERE day=CURDATE();");
-    
-        $count = mysql_result($result, 0);
-        if($count == 0){
-            mysql_query("INSERT INTO statistic (day, clicks) VALUES(CURDATE(), 1);");
-        }else{
-            mysql_query("UPDATE statistic SET clicks=clicks+1 WHERE day=CURDATE();");
-        }
-    
+        mysql_query("INSERT INTO statistic (day, clicks) VALUES(CURDATE(), 1);");
+    }else{
+        mysql_query("UPDATE statistic SET clicks=clicks+1 WHERE day=CURDATE();");
     }
-    database_close($db);
 }
 
 function counter_get(){

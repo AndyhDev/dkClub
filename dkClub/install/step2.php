@@ -39,7 +39,7 @@ if(!mysql_select_db($_SESSION["database_name"])){
     	padding: 0px;
     }
     body{
-    	background-image: url("/img/background9.jpg");
+    	background-image: url("../img/background9.jpg");
     	font-family: Helvetica, Arial, sans-serif;
     }
     .main{
@@ -63,6 +63,11 @@ if(!mysql_select_db($_SESSION["database_name"])){
    		margin: 10px;
     	padding: 10px;
     	background-color: #FE2E2E;
+    }
+    .yellowbox{
+   		margin: 10px;
+    	padding: 10px;
+    	background-color: #FFBF00;
     }
     </style>
     <script type="text/javascript">
@@ -104,6 +109,7 @@ if(!mysql_select_db($_SESSION["database_name"])){
     				<td><?php get_session_value("admin_passw2_error")?></td>
     			</tr>
     		</table>
+    		(Achtung maximale erlaubte Länge sind 30 Zeichen)
     		<p>
     			<input type="submit" value="Einstellung testen und weiter"/>
     		</p>

@@ -16,7 +16,7 @@
     	padding: 0px;
     }
     body{
-    	background-image: url("/img/background9.jpg");
+    	background-image: url("../img/background9.jpg");
     	font-family: Helvetica, Arial, sans-serif;
     }
     .main{
@@ -93,6 +93,7 @@
     				<td><?php echo get_session_value("database_passw_error")?></td>
     			</tr>
     		</table>
+    		(Achtung maximale erlaubte Länge sind 30 Zeichen)
     		<p>
     			<input type="submit" value="Einstellung testen und weiter"/>
     		</p>

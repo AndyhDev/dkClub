@@ -6,10 +6,12 @@ echo "<h3>letzte Änderungen:</h3>
 $db = database_connect();
 $sql = "SELECT * FROM events ORDER BY date DESC LIMIT 0, 100";
 $res = mysql_query($sql);
-while ($row = mysql_fetch_array($res)){
-    $date = $row['date'];
-    $info = $row['info'];
-    echo "<tr><td>$date</td><td>$info</td></tr>";
+if($res){
+	while ($row = mysql_fetch_array($res)){
+	    $date = $row['date'];
+	    $info = $row['info'];
+	    echo "<tr><td>$date</td><td>$info</td></tr>";
+	}
 }
 echo "</table>";
 database_close($db);

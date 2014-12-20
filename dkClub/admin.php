@@ -19,7 +19,7 @@ session_start();
     
     <style type="text/css">
        body{
-        background: #3B5378 url(/test/bg.png) repeat-x;
+        background: #3B5378 url(img/background9.jpg) repeat-x;
       }
       #main_div{
         background : #ffffff;
@@ -116,22 +116,9 @@ if($_SESSION['login'] == 'ok' and $_SESSION["spezi"] == 1){
   exit();
 }
 ?>
-    <form id="form_sql" action="http://ironcrust.rzone.de/myadmin/start.php" method="post" target="_blank" style="display:none;">
-		<input type="hidden" name="action" value="ask_admin">
-		<input type="hidden" name="dbname" value="DB1133193" >
-		<input type="hidden" name="dbid" value="">
-		<input type="hidden" name="dbtype" value="mysql">
-		<input type="hidden" name="my" value="5">
-		<input type="hidden" name="rid" value="51434621">
-		<input type="hidden" name="keytag" value="0428f5e8c9644ae434861ceb4b1dfe3f" >
-		<input TYPE="hidden" NAME="track" value="51434621.swh.strato-hosting.eu" >
-		<input type="hidden" name="country_id" value="DE" >
-		<input type="hidden" name="masterID" value="51434621.swh.strato-hosting.eu">
-	</form>
-	
     <div id="main_div">
       <div id="header">
-        <a name="oben"><img src="img/logo.gif" alt="Logo des Schwäbischer Eisenbahnverein"/></a>
+        <a name="oben"><img src="img/logo.jpg" alt="Logo"/></a>
       </div>
       <div id="layout">
         <table id="base_layout">
@@ -186,10 +173,10 @@ if($_SESSION['login'] == 'ok' and $_SESSION["spezi"] == 1){
               <a class="fake_link">Fahrtage</a>
               <ul class="sub_menu">
                 <li>
-                  <a href="admin.php?site=days">Fahrtage Liste</a>
+                  <a href="admin.php?site=days">Event Liste</a>
                 </li>
                 <li>
-                  <a href="admin.php?site=days&action=new&id=0">Neuer Fahrtag</a>
+                  <a href="admin.php?site=days&action=new&id=0">Neues Event</a>
                 </li>
               </ul>
             </li>
@@ -214,7 +201,7 @@ if($_SESSION['login'] == 'ok' and $_SESSION["spezi"] == 1){
               <a href="admin.php?site=new_password">Passwort Link</a>
             </li>
             <li>
-              <a href="index.php">SEV-Seite</a>
+              <a href="index.php">Vereins-Seite</a>
             </li>
           </ul>
         </div>

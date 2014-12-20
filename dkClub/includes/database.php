@@ -1,12 +1,15 @@
 <?php
+@include_once '../config/dbconfig.php';
+@include_once 'config/dbconfig.php';
+
 function database_connect(){
     $res = @mysql_query('SELECT * FROM menu WHERE id=1');
     if(!$res){
-        $link = mysql_connect('rdbms.strato.de', 'U1133193', 'SEV1975');#mysql_connect('localhost', 'sev', 'sevtest123');
+        $link = mysql_connect(dbServer, dbUser, dbPassword);
         if (!$link) {
             die('Verbindung schlug fehl: ' . mysql_error());
         }
-        mysql_select_db("DB1133193");#mysql_select_db("sev");
+        mysql_select_db(dbName);
         mysql_query("SET NAMES 'utf8'");
         return $link;
     }
