@@ -1,0 +1,20 @@
+<h1 class="text_center">Stundenübersicht der aktiven Mitglieder</h1>
+
+<h3 class="text_center">Stunden 2013:</h3>
+<a href="img_view.php?img=intern/img/Stunden_2013_1.jpg">
+  <img src='img.php?img=Stunden_2013_1_k.jpg' alt='Stunden 2013' />
+</a><br/>
+<a href="img_view.php?img=intern/img/Stunden_2013_2.jpg">
+  <img src='img.php?img=Stunden_2013_2_k.jpg' alt='Stunden 2013' />
+</a><br/>
+<a href="img_view.php?img=intern/img/Stunden_2013_3.jpg">
+  <img src='img.php?img=Stunden_2013_3_k.jpg' alt='Stunden 2013' />
+</a><br/>
+<h3 class="text_center">Vergleich Stunden 2012:</h3>
+<a href="img_view.php?img=intern/img/Stunden_2012_1.jpg">
+  <img src='img.php?img=Stunden_2012_1_k.jpg' alt='Stunden 2012' />
+</a><br/>
+<a href="img_view.php?img=intern/img/Stunden_2012_2.jpg">
+  <img src='img.php?img=Stunden_2012_2_k.jpg' alt='Stunden 2012' />
+</a><br/>
+

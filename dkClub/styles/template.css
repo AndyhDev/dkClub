@@ -1,0 +1,77 @@
+body{
+  background: #3B5378 url(/test/bg.png) repeat-x;
+}
+#main_div{
+  background : #ffffff;
+  position : relative;
+  width : 1030px;
+  margin : 15px auto;
+}
+#header{
+  text-align : center;
+}
+#layout{
+  margin : 30px 15px 15px 15px;
+  padding-bottom : 5px;
+}
+#menu ul{
+  list-style-type : none;
+  margin : 0px;
+  padding : 0px;
+}
+#menu_list li{
+  margin-top : 1px;
+  display : block;
+} 
+ul#menu_list li a {
+  display : list-item;
+  background : #ffcc08;
+  color : #000;	
+  padding : 9px 12px 9px 12px;
+  font-size : 18px;
+}
+ul#menu_list li ul li a{
+  display : list-item;
+  background: #ffd94a;
+  color : #000;	
+  padding : 9px 6px 9px 6px;
+  margin-left : 12px;
+}
+ul#menu_list a {
+  display : block;
+  width : 150px;
+  text-decoration : none;	
+}
+.sub_menu{
+  display : none;
+}
+.fake_link{
+  cursor : pointer;
+}
+#menu {
+  margin-right : 10px;
+}
+#base_layout td{
+  vertical-align : top;
+}
+#footer {
+  text-align : center;
+  position : relative;
+  margin-top : 10px;
+  height : 31px;
+}
+#validator_link img{
+  border : 0px;
+}
+#validator_link{
+  position : absolute;
+  right : 0px;
+}
+#impress_link{
+  position : absolute;
+  left : 0px;
+  font-size : 12px;
+}
+#content_td{
+  width : 100%;
+}

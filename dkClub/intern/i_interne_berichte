@@ -1,0 +1,119 @@
+<h1 class="text_center">
+	Interne Berichte</h1>
+<table height="260" style="width: 100%;" width="616">
+	<tbody>
+      <tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Instandsetzung an der Anlage</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;Instandsetzung_an_der_Anlage.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=Instandsetzung_an_der_Anlage.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=instandsetzung.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+        <tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+      <tr>
+      <tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Nicht nur ICE’s haben Achsprobleme</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;radsatzbruch.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=radsatzbruch.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=radsatzbruch.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+        <tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+      <tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Holzaktion</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;Holzaktion.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=Holzaktion.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=holzaktion.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+        <tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+	  </tr>
+      <tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Der Kessel für die neue Vereinslok</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;neue_lok4_intern.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=neue_lok4_intern.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=neue_lok4_intern.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+        <tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Gleiserweiterung im Bahnhofsbereich</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;Gleiserweiterung_im_Bahnhofsbereich.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=Gleiserweiterung_im_Bahnhofsbereich.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=Gleiserweiterung_im_Bahnhofsbereich.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Neues vom Bau der Vereinslok</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;neue_lok3_intern.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=neue_lok3_intern.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=neue_lok3_intern.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Fortschritt beim Bau der neuen Vereinslok</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;neue_lok2_intern.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=neue_lok2_intern.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=neue_lok2_intern.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Eine neue Dampflok f&uuml;r den SEV</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;neue_lok1_intern.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=neue_lok1_intern.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=neue_lok1_intern.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="vertical-align: middle;">
+				<hr />
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;">
+				<h3>
+					Bereicht zum Kesselschaden der KEPHALLENIA</h3>
+				&lt;plugin name=&quot;pdf&quot; vars=&quot;Bericht_KEPHALENIA.pdf&quot;&gt;</td>
+			<td>
+				<a href="index.php?download=Bericht_KEPHALENIA.pdf&amp;type=pdf&amp;intern=yes"><img alt="PDF" src="img.php?img=keph.jpg" style="border: 1px solid gray;" /></a></td>
+		</tr>
+	</tbody>
+</table>

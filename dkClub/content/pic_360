@@ -1,0 +1,5 @@
+<h1 class="text_center">360° Anlagenbild</h1>
+<br/><br/>
+<div style="width:800px;overflow-x:scroll;overflow-y:hidden;">
+  <img src="img/bild360.jpg" alt="Anlagenbild"/>
+</div>

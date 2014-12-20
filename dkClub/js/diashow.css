@@ -1,0 +1,22 @@
+#diashow_image_box{
+    position : relative;
+    width : 600px;
+    height : 450px;
+    overflow : hidden;
+}
+#diashow_act_image{
+    z-index : 1;
+}
+.diashow_box{
+    z-index : 2;
+    position : absolute;
+    width : 50px;
+    height : 450px;
+    top : 0px;
+}
+.diashow_tbox{
+    z-index : 2;
+    position : absolute;
+    width : 100px;
+    height : 100px;
+}

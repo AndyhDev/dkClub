@@ -1,0 +1,5 @@
+<h1 class="text_center">
+	n&auml;chster Fahrtag</h1>
+&lt;plugin name=&quot;na_fahrtag&quot; vars=&quot;&quot;&gt;<br />
+<br />
+<img alt="zufalls bild" src="%rand_img%" />

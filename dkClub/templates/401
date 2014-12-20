@@ -1,0 +1,12 @@
+<h1 class='text_center'>keine Berechtigung</h1>
+<table>
+  <tr>
+    <td>
+      <img src='img/errors/401.png' alt='401' />
+    </td>
+    <td style='vertical-align:middle;padding-left:50px;'>
+      Sie haben keine Berechtigung diese Seite zusehen!
+    </td>
+  </tr>
+</table>
+

@@ -1,0 +1,5 @@
+Name	Vorname	Strasse	Land	PLZ	Ort	email	Tel	Samstag	Sonntag	Montag	Anzahl_Personen	Sa_Essen	_5_Zoll	_7_Zoll	_10_Zoll	Lok_Meter	Zug_Meter	strassendampf	stat_D_Modelle	Anzahl_Tisch	Stromanschl	Druckluft	Modell_Zeile1	Modell_Zeile2	Zeltplatz	Womo_WoWa_Platz	Auto_schlafen	Anreise_CP	Nachricht1	Nachricht2	Kuchenanzahl	Freitag_Personal	Samstag_Vormittag_Personal	Samstag_Nachmittag_Personal	Sonntag_Vormittag_Personal	Sonntag_Nachmittag_Personal	Montag__Vormittag_Personal	Montag_Nachmittag_Personal	Dienstag_Abbau
+Andreas	Hofmann	Gartenstrasse 13	D	88422	Bad Buchau	AH2@gmx.de	075828712	X	X		1	1																--		
+Andreas	Hofmann	Gartenstrasse 13	D	88422	Bad Buchau	AH2@gmx.de	075828712	X	X		1	1				1	2	X	X	3	X	X	be1	be2	X	X	X	Mi	na1	na2
+Andreas	Hofmann	Gartenstrasse 13	D	Bad B	Bad Buchau	AH2@gmx.de	075828712	X	X		1	1				10	11	X	X	3	X	X	be1	be2	X	X	X	Do	na 1	na 2
+Andreas	Hofmann	Gartenstrasse 13	D	Bad B	Bad Buchau	AH2@gmx.de	075828712	X	X		1	1	X	X	X	10	11	X	X	5	X	X	be1	be2	X	X	X	Sa	1	2

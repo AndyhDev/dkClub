@@ -1,0 +1,142 @@
+<h1 class="text_center">Anmeldung zum 14. Kürnbacher Dampffest 2012</h1>
+<span style='color:red;'>Anmeldeschluß 11.Mai 2012</span>
+<form method='post' action='index.php?site=join_dampf2'>
+<table>
+  <tr>
+    <td>
+      Name:
+    </td>
+    <td>
+      <input type='text' size='40' name='Name' /><!--req=True min=3 -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Vorname:
+    </td>
+    <td>
+      <input type='text' size='40' name='Vorname' /><!--req=True min=3 -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Straße:
+    </td>
+    <td>
+      <input type='text' size='40' name='Strasse' /><!--req=True min=3 -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      PLZ / Ort:
+    </td>
+    <td>
+      <select size='1' name='Land'><!--req=True-->
+        <option selected="selected">D</option>
+        <option>A</option>
+        <option>CH</option>
+        <option>I</option>
+        <option>F</option>
+        <option>NL</option>
+        <option>B</option>
+        <option>L</option>
+        <option>Sonst.</option>
+      </select>
+      <input type='text' size='5' maxlength='5' name='PLZ' /><!--req=True min=4 max=5 type=int-->
+      <input type='text' size='23' name='Ort' /><!--req=True min=3 -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      E-Mail:
+    </td>
+    <td>
+      <input type='text' size='40' name='email' /><!--req=True min=5 type=mail -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Tel.Nr.:
+    </td>
+    <td>
+      <input type='text' size='20' name='Tel' />
+    </td>
+  </tr>
+</table>
+<p>
+Ich werde teilnehmen am: 
+Sa, 09.06.12 <input type='checkbox' name='Samstag' value='X' />
+Sa, 10.06.12 <input type='checkbox' name='Sonntag' value='X' />
+<input type='hidden' name='Montag' value='' /></p>
+<p>
+Anzahl Personen: <input type='text' size='2' maxlength='1' name='Anzahl_Personen' /><!--req=True min=1 max=1 type=int-->
+</p>
+<p>
+Teilnahme am Abendessen am Samstag mit <input type="text" name="Sa_Essen" size="2" maxlength="1" /> Personen<!--req=True min=1 max=1 type=int-->
+</p>
+<p>
+Lok-/Wagenmodelle:
+<input type='checkbox' name='_5_Zoll' value='X' /> 5"
+<input type='checkbox' name='_7_Zoll' value='X' /> 7 1/4"
+<input type='checkbox' name='_10_Zoll' value='X' /> 10 1/4"
+</p>
+<p>
+Platzbedarf für Lok und Bedienwagen: <input type='text' size='4' name='Lok_Meter' /> Meter
+</p>
+<p>
+Platzbedarf für ganze Züge: <input type='text' size='4' name='Zug_Meter' /> Meter<br/>
+(Bei mehreren Fahrzeugen Gesamtlänge angeben,
+der Veranstalter behält sich eine Begrenzung der Zuglänge vor)
+</p>
+<p>
+<input type="checkbox" name="strassendampf" value="X" /> Dampftraktoren / Straßendampf
+</p>
+<p>
+<input type="checkbox" name="stat_D_Modelle" value="X"> Stationäre Dampfmodelle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Anzahl Tisch(e)<input type="text" name="Anzahl_Tisch" size="2" maxlength="1" /><!--min=1 max=1 type=int-->
+</p>
+<p>
+<input type="checkbox" name="Stromanschl" value="X"> Stromanschluß
+</p>
+<p>
+<input type="checkbox" name="Druckluft" value="X"> Druckluft
+</p>
+<p>
+<span style='color:#000080'>Wasserhärte im Bahnhof und Drehscheibe: 6 dH</span>
+</p>
+<p>
+Modellbeschreibung:<br/>
+<input type="text" name="Modell_Zeile1" size="90" maxlength="90"><br><!--req=True max=90-->
+<input type="text" name="Modell_Zeile2" size="90" maxlength="90"><!--req=True max=90-->
+</p>
+<p>
+Benötigen Sie einen Campingplatz?<br/>
+<input type="checkbox" name="Zeltplatz" value="X"> ja, Zelt&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="Womo_WoWa_Platz" value="X"> ja, Wohnwagen/Wohnmobil&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="Auto_schlafen" value="X"> schlafe im Pkw
+</p>
+<p>
+<span style='color:#000080'>Für Caravan / Wohnmobile steht ein eigener Stromanschluss pro Fahrzeug zur Verfügung (SCHUKO-Steckdose 230 V / 4 A)</span>
+</p>
+<p>
+Anreise für Campingplatz am: 
+<select size='1' name='Anreise_CP'>
+  <option selected="selected">--</option>
+  <option>Mi</option>
+  <option>Do</option>
+  <option>Fr</option>
+  <option>Sa</option>
+</select>
+</p>
+<p>
+Platz für eine Nachricht:<br>
+<input type="text" name="Nachricht1" size="90" maxlength="90"><br/><!--req=True max=90-->
+<input type="text" name="Nachricht2" size="90" maxlength="90"><!--req=True max=90-->
+</p>
+<p style='margin-left:100px;'>
+<input type="submit" value="Abschicken" name="b1">
+<input type="reset" value="Eingaben löschen" name="Reset">
+</p>
+</form>
+Wenn das Anmeldeformular richtig an uns übermittelt wurde, erhalten Sie eine
+Bestätigungsseite.

@@ -1,0 +1,41 @@
+<h1 class="text_center">Anfahrt</h1>
+
+<div class="text_center">
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.de/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=47.992471,9.678526&amp;aq=&amp;sll=51.151786,10.415039&amp;sspn=23.901672,57.084961&amp;vpsrc=0&amp;ie=UTF8&amp;t=h&amp;ll=47.992449,9.678526&amp;spn=0.027571,0.054932&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.de/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=47.992471,9.678526&amp;aq=&amp;sll=51.151786,10.415039&amp;sspn=23.901672,57.084961&amp;vpsrc=0&amp;ie=UTF8&amp;t=h&amp;ll=47.992449,9.678526&amp;spn=0.027571,0.054932&amp;z=14" style="color:#0000FF;text-align:left">Größere Kartenansicht</a></small>
+<br/><br/>
+<a href="http://maps.google.de/maps?hl=de&amp;safe=off&amp;gs_upl=470l470l0l927l1l1l0l0l0l0l226l226l2-1l1l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=1680&amp;bih=964&amp;um=1&amp;ie=UTF-8&amp;cid=0,0,7613056167950750039&amp;fb=1&amp;hq=Kreisfreilichtmuseum&amp;hnear=Kreisfreilichtmuseum&amp;gl=de&amp;daddr=Griesweg+30,+88427+Bad+Schussenried&amp;geocode=0,47.992778,9.675553">
+<img src="img/route.png" alt="Route berechnen"/></a>
+</div>
+
+<br/><br/>
+<div class="info_box" style="width:500px;margin : 0px auto;">
+<div class="info_box_label">Lage der Anlage</div>
+<br/>
+<table>
+  <tr>
+    <td>
+      Standort:
+    </td>
+    <td>
+      88427 Bad Schussenried – Kürnbach, Griesweg<br/>
+      Beim Oberschwäbischen Museumsdorf Kürnbach
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Bahnlinie:
+    </td>
+    <td>
+      Ulm – Friedrichshafen, Bahnhof Bad Schussenried
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Geo-Daten:
+    </td>
+    <td>
+      Länge: 9° 40’ 44’’  <br/>Breite: 47° 59’ 33’’<br/>Höhe: 559 m ü.NN  
+    </td>
+  </tr>
+</table>
+</div>

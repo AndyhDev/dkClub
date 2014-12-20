@@ -1,0 +1,130 @@
+<script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/diashow.js"></script><script type="text/javascript">
+      //<!--
+      //var images = new Array('bilder_startseite_diashow/1_1.jpg', 'bilder_startseite_diashow/2_1.jpg', 'bilder_startseite_diashow/3_1.jpg', 'bilder_startseite_diashow/4_1.jpg', 'bilder_startseite_diashow/5_1.jpg', 'bilder_startseite_diashow/6_1.jpg');
+      var images = new Array('bilder_startseite_diashow/1.jpg', 'bilder_startseite_diashow/2.jpg', 'bilder_startseite_diashow/3.jpg', 'bilder_startseite_diashow/4.jpg', 'bilder_startseite_diashow/5.jpg', 'bilder_startseite_diashow/6.jpg');
+      //var images = new Array('bilder_startseite_diashow/sev_weihnachten1.jpg', 'bilder_startseite_diashow/sev_weihnachten2.jpg', 'bilder_startseite_diashow/sev_weihnachten3.jpg', 'bilder_startseite_diashow/sev_weihnachten4.jpg');
+      
+      var act_img = 1;
+      var img_loaded = -1;
+      var document_ready = false;
+      var loaded_images = new Array();
+      
+      function load_images(){      
+          for (var i = 0; i < images.length; i++){
+              var img = new Image();
+              img.src = images[i];
+              $(img).load(check_ok);
+              loaded_images.push(img);
+          }
+      }
+      load_images();
+      function next(){
+        if((act_img + 1) == images.length){
+            act_img = 0;
+        }else{
+           act_img += 1;
+        }
+        eff = Math.round(Math.random() * (7 - 1)) + 1;
+        effect(images[act_img], eff, 1);
+        setTimeout('test()', 500);
+      }
+      function test(){
+        if(effect_running == false){
+            setTimeout('next()', 5000);
+            
+        }else{
+            setTimeout('test()', 500);
+         }
+        
+      }
+      function check_ok(){
+          img_loaded++;
+          if(document_ready && img_loaded == images.length){
+              diashow_init('diashow', images[0]);
+              setTimeout('test()', 500);
+          }
+      }
+      $(document).ready(function() {
+          document_ready = true;
+          check_ok();
+      });
+      // -->
+</script>
+<h1 class="text_center">
+	Herzlich Willkommen beim Schw&auml;bischen Eisenbahnverein</h1>
+<ul>
+	<li>
+		Wir sind Freunde der gro&szlig;en und kleinen Eisenbahn. Aus diesem Grund haben wir uns zusammengeschlossen und betreiben eine Personen bef&ouml;rdernde Mini-Dampfbahn in den Spurweiten 5&quot; (Zoll), 7 1/4&quot; und 10 1/4&quot;.<br />
+		&nbsp;</li>
+	<li>
+		Unsere im Jahr 2004 er&ouml;ffnete Anlage im Kreisfreilichtmuseum K&uuml;rnbach (bei Bad Schussenried; Landkreis Biberach) hat eine Rundkursl&auml;nge von 600 Meter. Die gesamte Gleisl&auml;nge auf der Anlage betr&auml;gt 1300 Meter.<br />
+		&nbsp;</li>
+	<li>
+		Unsere Fahrtermine finden Sie unter &quot;Fahrtage&quot;.<br />
+		&nbsp;</li>
+	<li>
+		Gastfahrer sind nach vorheriger Anmeldung jederzeit herzlich willkommen.<br />
+		Bitte Anmeldung unter info[at]sev-kuernbach.de<br />
+		&nbsp;</li>
+</ul>
+<div style="width:600px;height:450px;margin:0px auto;">
+	<div id="diashow" style="width:600px;height:450px;overflow:hidden;">
+		&nbsp;</div>
+</div>
+
+<table style="width:100%;margin-top:20px;">
+	<tbody>
+		<tr>
+			<td style="width:50%">
+				&lt;plugin name=&quot;na_fahrtag_k&quot; vars=&quot;&quot;&gt;</td>
+			<td style="width:50%">
+				<div style="width:350px;height:220px;background-image:url(img/top_aktuell.png);position:relative;">
+					<div style="position:absolute;top:55px;left:15px;width:320px;height:150px;overflow-y:scroll;">
+                        <a href="index.php?site=ksk_2014">30.11.2014 Bericht Fahreinsatz in Riedlingen</a>
+                      	<hr/>
+                        <a href="index.php?site=abdampfen_2014">24.10.2014 Bericht Abdampfen</a>
+                      	<hr/>
+                        <a href="index.php?site=herbstmarkt_2014">11.10.2014 Bericht Herbstmarkt</a>
+                      	<hr/>
+                        <a href="index.php?site=frickingen_2014">11.10.2014 Bericht Fahreinsatz in Frickingen</a>
+                  </div>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="position:relative;height:200px;">
+	<br />
+	<table style="position:absolute;right:0px;">
+		<tbody>
+			<tr>
+				<td colspan="2" style="border-bottom: 2px solid gray;">
+					Besucherz&auml;hler</td>
+			</tr>
+			<tr>
+				<td>
+					Gesamt:</td>
+				<td>
+					%counter_all%</td>
+			</tr>
+			<tr>
+				<td>
+					Heute:</td>
+				<td>
+					%counter_day%</td>
+			</tr>
+			<tr>
+				<td>
+					Gestern:</td>
+				<td>
+					%counter_1day%</td>
+			</tr>
+			<tr>
+				<td>
+					30 Tage:</td>
+				<td>
+					%counter_month%</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

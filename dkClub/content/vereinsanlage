@@ -1,0 +1,28 @@
+<h1 class="text_center">
+	Vereinsanlage</h1>
+<table align="center" border="0" cellpadding="1" cellspacing="0" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 250px;">
+				&lt;plugin name=&quot;klein_zufall&quot; vars=&quot;ks1&quot;&gt;</td>
+			<td style="text-align: center;">
+				<p>
+					<a href="index.php?site=arbeitseinsatz1208"><span style="font-size:18px;">12.08.2013 Arbeitseinsatz</span></a></p>
+				<p>
+					<br />
+					<a href="index.php?site=aufbau">6.04.2013 <span style="font-size:18px;">Vorbereitung zum Andampfen</span></a></p>
+				<hr />
+				<h3>
+					Juni 2012</h3>
+				<br />
+				<a href="index.php?site=gleiserweiterung"><span style="font-size:18px;">Einbringen von 2 Weichen im Bahnhofsbereich</span></a>
+				<hr />
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width: 250px;">
+				&lt;plugin name=&quot;klein_zufall_w&quot; vars=&quot;ks2&quot;&gt;</td>
+		</tr>
+	</tbody>
+</table>
+<br />

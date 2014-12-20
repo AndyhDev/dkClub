@@ -1,0 +1,72 @@
+<script src="files/sha1.js" type="text/javascript"></script>
+<script type="text/javascript">
+function do_login(){
+    var user = document.getElementById("user").value;
+    var password = document.getElementById("password").value;
+    document.getElementById("password").value = "";
+    if(password){
+        var new_password = sha1(password);
+    }else{
+        var new_password = "";
+    }
+    document.getElementById("password_sha1").value = new_password;
+    document.getElementById("login_form").submit();
+}
+function submitenter(myfield, e){
+    var keycode;
+    if (window.event) keycode = window.event.keyCode;
+    else if (e) keycode = e.which;
+    else return true;
+
+    if (keycode == 13){
+        var user = document.getElementById("user").value;
+        var password = document.getElementById("password").value;
+        document.getElementById("password").value = "";
+        if(password){
+            var new_password = sha1(password);
+        }else{
+            var new_password = "";
+        }
+        document.getElementById("password_sha1").value = new_password;
+        document.getElementById("login_form").submit();
+        return false;
+    }else
+        return true;
+}
+</script>
+<h1 class="text_center">Login für den Mitglieder-Bereich</h1>
+<div class="info_box" style="width:300px;margin : 0px auto;">
+<!--<div class="info_box_label">sha1 Login</div>-->
+<div class="info_box_label">Login</div>
+<br/>
+<form id="login_form" method="post" action="index.php?site=intern&amp;action=login">
+<table>
+  <tr>
+    <td>
+      Name:
+    </td>
+    <td>
+      <input id="user" type="text" name="user" />
+    </td>
+    %error1%
+  </tr>
+  <tr>
+    <td>
+      Passwort:
+    </td>
+    <td>
+      <input id="passw" type="password" name="passw"/>
+      <!--<input id="password" type="password" name="password" onKeyPress="return submitenter(this,event)"/>
+      <input id="password_sha1" type="hidden" name="password_sha1" />-->
+    </td>
+    %error2%
+  </tr>
+  <tr>
+    <td>
+      <!--<input type="button" value="Login" onclick="do_login()"/>-->
+      <input type="submit" value="Login"/>
+    </td>
+  </tr>
+</table>
+</form>
+</div>

@@ -1,0 +1,102 @@
+.text_center{
+  text-align : center;
+}
+.text_middle{
+  vertical-align : middle;
+}
+.signal_center{
+  margin-left : 200px;
+}
+.text_bold{
+  font-weight : bold;
+}
+.border_top{
+  border-top : 1px solid gray;
+}
+a img{
+  border : 0px;
+}
+.pref_color{
+  width : 200px;
+  height : 120px;
+}
+.text_hoch{
+  vertical-align : super;
+  font-size: smaller;
+}
+.info_box{
+  position : relative;
+  padding : 5px;
+  border : 5px solid gray;
+}
+.info_box_label{
+  position : absolute;
+  padding-left : 2px;
+  width : 150px;
+  margin-top : -15px;
+  margin-left : -5px;
+  font-size : 12px;
+  background-color : #FFF;
+}
+.text_20{
+  font-size : 20px;
+}
+.text_20_bold{
+  font-size : 20px;
+  font-weight : bold;
+}
+.border_table{
+  border-collapse : collapse;
+  border-spacing : 0px;
+  border : 1px solid black;
+}
+.border_table td{
+  border : 1px solid black;
+}
+.error{
+  border : 2px solid #B22222;
+  background-color : #FF8C00;
+  padding : 20px;
+}
+.guestbook_entry{
+  margin-top : 10px;
+  padding : 5px;
+  border : 2px solid gray;
+}
+.page_link{
+  font-size : 18px;
+  padding : 5px;
+  border : 2px solid gray;
+  margin-right : 2px;
+}
+.td_middle{
+  vertical-align : middle !important;
+}
+.td_padding{
+  padding-top : 10px;
+  padding-bottom : 10px;
+}
+.small_slider{
+  position : relative;
+  width : 250px;
+  height : 600px;
+  overflow : hidden;
+}
+.small_slider .overlay1{
+  width : 250px;
+  height : 600px;
+  position : absolute;
+  top : 0px;
+  left : 0px;
+}
+.small_slider .overlay2{
+  width : 250px;
+  height : 600px;
+  position : absolute;
+  top : 0px;
+  left : 0px;
+  display : none;
+}
+.middle_table td{
+  vertical-align : middle !important;
+}

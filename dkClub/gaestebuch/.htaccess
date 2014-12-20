@@ -1,0 +1,6 @@
+#######################################################################
+#     Diese .htaccess wurde vom STRATO-Webservermanager erstellt      #
+#######################################################################
+
+Redirect 301 /gaestebuch/danke_besucher.htm /index.php
+

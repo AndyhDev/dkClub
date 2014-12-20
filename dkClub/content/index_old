@@ -1,0 +1,58 @@
+<h1 class="text_center">Herzlich Willkommen beim Schwäbischen Eisenbahnverein</h1>
+<ul>
+  <li>
+    Wir sind Freunde der großen und kleinen Eisenbahn. Aus diesem Grund haben wir uns zusammengeschlossen und betreiben eine Personen befördernde Mini-Dampfbahn in den Spurweiten 5" (Zoll), 7 1/4" und 10 1/4".<br/><br/>
+  </li>
+  <li>
+    Unsere im Jahr 2004 eröffnete Anlage im Kreisfreilichtmuseum Kürnbach (bei Bad Schussenried; Landkreis Biberach) hat eine Rundkurslänge von 600 Meter. Die gesamte Gleislänge auf der Anlage beträgt 1300 Meter. <br/><br/>
+  </li>
+  <li>
+    Unsere Fahrtermine finden Sie unter "Fahrtage". Gastfahrer sind nach vorheriger Anmeldung jederzeit herzlich willkommen<br/><br/>
+  </li>
+</ul>
+<img src="fotos/website/main.jpg" alt="start logo"/>
+
+<plugin name="na_fahrtag_k" vars="" />
+
+<div style="position:relative;height:200px;">
+<br/>
+<table style="position:absolute;right:0px;">
+  <tr>
+    <td colspan="2" style="border-bottom: 2px solid gray;">
+      Besucherzähler
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Gesamt:
+    </td>
+    <td>
+      %counter_all%
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Heute:
+    </td>
+    <td>
+      %counter_day%
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Gestern:
+    </td>
+    <td>
+      %counter_1day%
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30 Tage:
+    </td>
+    <td>
+      %counter_month%
+    </td>
+  </tr>
+</table>
+</div>

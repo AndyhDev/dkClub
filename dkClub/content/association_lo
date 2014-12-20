@@ -1,0 +1,473 @@
+<h1 class="text_center">Vereinslokomotiven</h1>
+
+<table style="border-spacing:0px 40px;border:1px solid gray">
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">Stainz</h3>
+      <img src="fotos/website/verein_loks/stainz.jpg" alt="Stainz"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            Schmalspurlok
+          </td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>Bn2</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1920</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>30 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>760 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>StLB<br/>(Steiermärkische Landesbahn)</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Maßstab:</td>
+          <td>1:6</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>5 Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>Dampf, Kohle gefeuert</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>Deuschle / Eigenbau</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top:1px solid gray;">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">Hermann L</h3>
+      <img src="fotos/website/verein_loks/hermann_l.jpg" alt="Hermann L"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Feldbahnlok, Typ:</td>
+          <td>Hermann L</td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>Cn2</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1910</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>25 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>600 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>Industrie, Baufirmen</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+         <tr>
+          <td>Maßstab:</td>
+          <td>1:5</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>5 Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>110 kg</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>Dampf, Kohle gefeuert<br/>(Kupferkessel mit Verbrennungskammer)</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>Zimmermann / Eigenbau</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top:1px solid gray;">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">DR 199 861-6 Harzkamel</h3>
+      <img src="fotos/website/verein_loks/harzkamel.jpg" alt="DR 199 861-6 Harzkamel"/><br/>
+      <p><span class="text_bold">sowie der Lok-Bedienwagen</span><br/></p>
+      <img src="fotos/website/verein_loks/bedien_harz.jpg" alt="Bedienwagen"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>C`C`</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1988</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>62 Tonnen</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>50 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>1000 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>Harzquerbahn</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Maßstab:</td>
+          <td>1:5,4</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>7¼ Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>ca. 350 kg</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>elektrisch, 2 x 750 Watt</td>
+        </tr>
+        <tr>
+          <td>Besonderheiten:</td>
+          <td>2 Traktionsbatterien, je 12 Volt 200 Ah<br/>CURTIS Impulssteuerung als Fahrregler<br/>Druckluftbremse auf die Räder wirkend</td>
+        </tr>
+        <tr>
+          <td>Bauzeit:</td>
+          <td>über 1 Jahr und über 500 Arbeitsstunden</td>
+        </tr>
+        <tr>
+          <td>Maße:</td>
+          <td>über 2,50 Meter lang und über 50 cm breit.</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>Peter + Jens Schlawin, Otto Valentin</td>
+        </tr>
+        <tr>
+          <td colspan="2"><a href="index.php?site=harz_extra"><h3>siehe auch Sonderseite</h3></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top:1px solid gray;">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">2095.11</h3>
+      <img src="fotos/website/verein_loks/2095.jpg" alt="2095"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Feldbahnlok, Typ:</td>
+          <td>2095</td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>B´ B´</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1958</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>32 Tonnen</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>60 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>760 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>Öbb</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+         <tr>
+          <td>Maßstab:</td>
+          <td>1:7</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>5 Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>elektrisch 2 x 750 W, 24 Volt</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>Wolfgang Fischer</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top:1px solid gray;">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">Lok Nr.4</h3>
+      <img src="fotos/website/verein_loks/lok4.jpg" alt="Lok Nr.4"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Feldbahnlok, Typ:</td>
+          <td>Diesellok</td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>B</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1935</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>15 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>600 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>Werksbahnen</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+         <tr>
+          <td>Maßstab:</td>
+          <td>1:5</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>5 Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>64 kg</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>elektrisch, 1 x 200 W, 12 Volt</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>Dieter Riehlein</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top:1px solid gray;">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 class="text_center">99 6101</h3>
+      <img src="fotos/website/verein_loks/996101.jpg" alt="99 6101"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Vorbild:</span>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">Schmalspurtenderlok</td>
+        </tr>
+        <tr>
+          <td>Baureihe:</td>
+          <td>K 33.11</td>
+        </tr>
+        <tr>
+          <td>Bauart:</td>
+          <td>C n2</td>
+        </tr>
+        <tr>
+          <td>erstes Bj:</td>
+          <td>1914</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>30,3 Tonnen</td>
+        </tr>
+        <tr>
+          <td>Geschwindigkeit:</td>
+          <td>30 km/h</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>1000 mm</td>
+        </tr>
+        <tr>
+          <td>Bahnverwaltung:</td>
+          <td>Nordhausen-Wernigeroder-Eisenbahn</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <span class="text_bold">Modell:</span>
+          </td>
+        </tr>
+         <tr>
+          <td>Maßstab:</td>
+          <td>1:7</td>
+        </tr>
+        <tr>
+          <td>Spurweite:</td>
+          <td>5 Zoll</td>
+        </tr>
+        <tr>
+          <td>Gewicht:</td>
+          <td>145 kg</td>
+        </tr>
+        <tr>
+          <td>Antrieb:</td>
+          <td>Dampf, kohlegefeuert</td>
+        </tr>
+        <tr>
+          <td>Eigentümer:</td>
+          <td>SEV</td>
+        </tr>
+        <tr>
+          <td>Erbauer:</td>
+          <td>P.Schlawin</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

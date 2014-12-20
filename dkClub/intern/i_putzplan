@@ -1,0 +1,16 @@
+<h1 class='text_center'>Putzplan</h1>
+
+<table>
+  <tr>
+    <td>
+      <a href='index.php?download=Putzplan.pdf&amp;type=pdf&amp;intern=yes'><img src='img/pdf_64.png' alt='pdf' /></a>
+    </td>
+    <td style='vertical-align:middle;padding-left:30px;'>
+      Putzplan herunterladen
+    </td>
+  </tr>
+</table>
+<p>
+<div class='text_center'>(Diese Vorschau könnte veraltet sein)</div>
+<img src='img.php?img=Putzplan.jpg' alt='Putzplan' />
+</p>

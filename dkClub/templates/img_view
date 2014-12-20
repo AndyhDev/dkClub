@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+ 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+  <head> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    
+    <title>Schwäbischer Eisenbahnverein Dampfbahn Kürnbach e.V.</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="styles/html.css"/>
+    <link rel="stylesheet" type="text/css" href="styles/default.css"/>
+    <style type="text/css">
+    <!--
+      body{
+        %background%;
+        padding 10px;
+      }
+      #main_div{
+        background : #ffffff;
+        position : relative;
+        width : %width%px;
+        margin : 0px auto;
+      }
+      #header{
+        text-align : center;
+      }
+      #layout{
+        margin : 30px 15px 15px 15px;
+        padding-bottom : 5px;
+      }
+      #footer {
+        position : relative;
+        margin-top : 10px;
+        height : 31px;
+      }
+      #validator_link img{
+        border : 0px;
+      }
+      #validator_link{
+        position : absolute;
+        right : 0px;
+      }
+    -->
+    </style>
+  </head>
+  <body>
+    <div id="main_div">
+      <div id="header">
+        <img src="img/logo.gif" alt="Logo des Schwäbischer Eisenbahnverein"/>
+      </div>
+      <div id="layout">
+        <h2 class="text_center">Bild in der Großansicht</h2><br/>
+        <a href="%back_link%">zurück zur Homepage</a><br/>
+        <img src="%img%" alt="Großansicht"/>
+        <div id="footer"> 
+          <a id="impress_link" href="index.php?site=impressum">Impressum</a> <a id="validator_link" href="http://validator.w3.org/check?uri=referer"><img src="img/valid-xhtml10-blue.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

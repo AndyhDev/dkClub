@@ -1,0 +1,87 @@
+<h1 class="text_center">
+	Fahrpreise</h1>
+<table style="border:1px solid gray;width:500px;margin:0px auto;border-collapse:collapse;border-spacing:0px;">
+	<tbody>
+		<tr>
+			<td style="width:250px;_width:276px;*width:276px;">
+				Kinder (ab 3 J.):</td>
+			<td style="width:250px;">
+				Erwachsene:</td>
+		</tr>
+		<tr>
+			<td class="border_top" colspan="2">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<table style="width:100%;border-collapse:collapse;border-spacing:0px;">
+					<tbody>
+						<tr>
+							<td style="width:125px;">
+								Einzelfahrt</td>
+							<td style="width:125px;">
+								1 &euro;</td>
+							<td style="width:125px;">
+								Einzelfahrt</td>
+							<td style="width:125px;">
+								1,50 &euro;</td>
+						</tr>
+						<tr>
+							<td style="width:125px;">
+								5er Karte</td>
+							<td style="width:125px;">
+								4 &euro;</td>
+							<td style="width:125px;">
+								5er Karte</td>
+							<td style="width:125px;">
+								6 &euro;</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td class="border_top" colspan="2">
+				50er Karte (50 % billiger als Einzel)&nbsp;&nbsp;&nbsp;&nbsp;25 &euro;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				Kombifahrkarte ( 2 Erw. + 2 Kinder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 &euro;</td>
+		</tr>
+		<tr>
+			<td class="border_top" colspan="2">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<span class="text_bold">Kinder unter drei Jahren d&uuml;rfen nur in Begeleitung eines Erwachsenen mitfahren, hier ist nur eine Kinderfahrkarte erforderlich.</span></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<div class="info_box" style="width:700px;">
+	<div class="info_box_label">
+		Informationen</div>
+	<br />
+	<span class="text_bold">Steigen Ihre Kinder nicht mehr vom Zug ab oder besuchen Sie uns &ouml;fters?</span><br />
+	Oder wollen Sie anderen eine Freude machen?<br />
+	Ihren Enkeln zum Beispiel?<br />
+	<br />
+	<table style="margin: 0px auto;">
+		<tbody>
+			<tr>
+				<td style="vertical-align:middle">
+					<h2>
+						Die 50er Karte</h2>
+				</td>
+				<td style="vertical-align:middle">
+					<img alt="50er karte" src="img/fahrkarte_50.jpg" /></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

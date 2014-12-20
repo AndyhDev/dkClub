@@ -1,0 +1,169 @@
+<div style="background:url(img/signal_o.png) no-repeat;padding-top:150px;padding-left:105px;">
+	<h1 class="signal_center">
+		Fahrtage</h1>
+	<div style="padding-left:110px;">
+		<h3 style="padding-left:40px;">
+			Dampfzug-Fahrten 2013</h3>
+		<table>
+			<tbody>
+				<tr>
+					<td>
+						<table height="493" width="316">
+							<tbody>
+								<tr>
+									<td>
+										14.04</td>
+									<td>
+										Saisonbeginn Handwerkertag</td>
+								</tr>
+								<tr>
+									<td>
+										28.04</td>
+									<td>
+										Familiensonntag</td>
+								</tr>
+								<tr>
+									<td>
+										12.05</td>
+									<td>
+										Oldtimer-Traktorenfest</td>
+								</tr>
+								<tr>
+									<td>
+										26.05</td>
+									<td>
+										Familiensonntag</td>
+								</tr>
+								<tr>
+									<td>
+										<span class="text_bold" style="padding-right:10px;">8.-9.06</span></td>
+									<td>
+										<span class="text_bold">15. K&uuml;rnbacher Dampffest</span></td>
+								</tr>
+								<tr>
+									<td>
+										23.06</td>
+									<td>
+										Schafstag</td>
+								</tr>
+								<tr>
+									<td>
+										14.07</td>
+									<td>
+										Bauraleaba (Bauernleben)</td>
+								</tr>
+								<tr>
+									<td>
+										28.07</td>
+									<td>
+										Tiere im Museumsdorf</td>
+								</tr>
+								<tr>
+									<td>
+										11.08</td>
+									<td>
+										Familientag</td>
+								</tr>
+								<tr>
+									<td>
+										25.08</td>
+									<td>
+										Biertag</td>
+								</tr>
+								<tr>
+									<td>
+										08.09</td>
+									<td>
+										Familiensonntag</td>
+								</tr>
+								<tr>
+									<td>
+										22.09</td>
+									<td>
+										Schlachtfest</td>
+								</tr>
+								<tr>
+									<td>
+										06.10</td>
+									<td>
+										6. Herbstmarkt</td>
+								</tr>
+								<tr>
+									<td>
+										13.10</td>
+									<td>
+										Abdampfen</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+					<td style="vertical-align: middle; padding-left: 70px; text-align: center;">
+						<div style="text-align: left;">
+							Fahrplan zum herunterladen:</div>
+						&lt;plugin name=&quot;pdf&quot; vars=&quot;Schwaebischer_Eisenbahnverein_Fahrplan.pdf&quot;&gt;</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<h3>
+		Der Zutritt zur Dampfbahnanlage ist kostenlos.<br />
+		(ausgenommen am Dampffest, Oldtimer-Traktorenfest und Herbstfest)</h3>
+	Der Eintritt ins Museumsdorf ist jedoch kostenpflichtig.<br />
+	Eintrittskarten f&uuml;r das Museum gibt es auch bei unserem Fahrkartenschalter.<br />
+	<br />
+	<table>
+		<tbody>
+			<tr>
+				<td style="vertical-align:middle;">
+					<a href="index.php?site=info_ticket"><span class="text_bold" style="padding-right:10px;">Fahrpreise</span> </a></td>
+				<td>
+					<img alt="50er Karte" src="img/fahrkarte_50_k.jpg" /></td>
+			</tr>
+		</tbody>
+	</table>
+	<h3>
+		Externe Fahreins&auml;tze 2013</h3>
+	<p>
+		Sollten Sie Interesse daran haben, wie die Dampfbahn mit mobiler Anlage unterwegs ist, dann kommen sie bitte zu folgenden Terminen:</p>
+	<table>
+		<tbody>
+			<tr>
+				<td>
+					01.05</td>
+				<td>
+					D&uuml;rmentingen, Dorffest (fester Termin)</td>
+			</tr>
+			<tr>
+				<td>
+					06.07</td>
+				<td>
+					Bad Waldsee, Stapler Cup bei Sch&ouml;ler F&ouml;rdertechnik</td>
+			</tr>
+			<tr>
+				<td>
+					25.08</td>
+				<td>
+					Meckenbeuren, Bahnhofsfest</td>
+			</tr>
+			<tr>
+				<td>
+					08.09</td>
+				<td>
+					Frickingen, Herbstmarkt</td>
+			</tr>
+			<tr>
+				<td>
+					30.10</td>
+				<td>
+					KSK Riedlingen, Weltspartag</td>
+			</tr>
+			<tr>
+				<td>
+					24.11</td>
+				<td>
+					Baumarkt Selg in Riedlingen, Weihnachtsmarkt</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<br />

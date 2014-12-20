@@ -1,0 +1,300 @@
+<h1 class="text_center">
+	Telefonliste der aktiven Mitglieder</h1>
+<h3 class="text_center">
+	Telefonnummern und Adressen sollen (logischerweise) nicht ungefragt an Dritte herausgegeben werden</h3>
+<table border="1" rules="all" style="width:100%;">
+	<tbody>
+		<tr>
+			<td>
+				Name</td>
+			<td>
+				Privat</td>
+			<td>
+				Dienstl.</td>
+			<td>
+				Mobil</td>
+		</tr>
+		<tr>
+			<td>
+				Hans-J&uuml;rgen</td>
+			<td>
+				07524 / 23 33</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0177 / 4333934</td>
+		</tr>
+		<tr>
+			<td>
+				Carsten</td>
+			<td>
+				07525 / 921498</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Walter B.</td>
+			<td>
+				07351 / 1 35 26</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0160 / 91482966</td>
+		</tr>
+		<tr>
+			<td>
+				Siegfried</td>
+			<td>
+				07542 / 5 56 84</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Timo</td>
+			<td>
+				07356 / 935175</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Michael</td>
+			<td>
+				07325 / 6867</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Rolf</td>
+			<td>
+				07583 / 26 45</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				01525 / 3930928</td>
+		</tr>
+		<tr>
+			<td>
+				Bertram</td>
+			<td>
+				07525 / 91 10 27</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0176 / 48299110</td>
+		</tr>
+		<tr>
+			<td>
+				G&uuml;nther</td>
+			<td>
+				07524 / 31 28</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0160 / 98735477</td>
+		</tr>
+		<tr>
+			<td>
+				Andreas +<br />
+				Daniel</td>
+			<td>
+				07582 / 87 12</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Helmut</td>
+			<td>
+				08382 / 99 84 36</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0170 / 9667030</td>
+		</tr>
+		<tr>
+			<td>
+				Peter</td>
+			<td>
+				07571 / 48 13</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0174 / 6278913</td>
+		</tr>
+		<tr>
+			<td>
+				Jens</td>
+			<td>
+				07427 / 466027</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Dieter</td>
+			<td>
+				07351 / 2 25 10</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0175 / 1190063</td>
+		</tr>
+		<tr>
+			<td>
+				Reiner D.</td>
+			<td>
+				07553 / 82 97 99</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Thomas P.</td>
+			<td>
+				0731 / 72 99 691</td>
+			<td>
+				0731 / 9533-1277</td>
+			<td>
+				0172 / 2866129</td>
+		</tr>
+		<tr>
+			<td>
+				Dietmar</td>
+			<td>
+				07584 / 15 02</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0179 / 2973876</td>
+		</tr>
+		<tr>
+			<td>
+				Franz</td>
+			<td>
+				07371 / 55 87</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0175 / 2851721</td>
+		</tr>
+		<tr>
+			<td>
+				Alexander</td>
+			<td>
+				089 / 7 40 91 98</td>
+			<td>
+				089 / 70 91 25</td>
+			<td>
+				0172 / 8635406</td>
+		</tr>
+		<tr>
+			<td>
+				Walter St.</td>
+			<td>
+				07544 / 7 30 20</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0171 / 9454028</td>
+		</tr>
+		<tr>
+			<td>
+				Stephan F.</td>
+			<td>
+				07524 / 40 48 60</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0176 / 62568745</td>
+		</tr>
+		<tr>
+			<td>
+				Wolfgang F.</td>
+			<td>
+				07371 / 58 60</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0171 / 6049680</td>
+		</tr>
+		<tr>
+			<td>
+				Klaus</td>
+			<td>
+				07524 / 3390</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0170 / 3123639</td>
+		</tr>
+		<tr>
+			<td>
+				Eberhard</td>
+			<td>
+				07371 / 5 02 10</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0175 / 1831680</td>
+		</tr>
+		<tr>
+			<td>
+				Franziskus</td>
+			<td>
+				07584 / 290189</td>
+			<td>
+				0151 / 17455019</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Adolf</td>
+			<td>
+				07351 / 2 93 66 oder<br />
+				07351 / 2 29 05</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				R&uuml;diger L.</td>
+			<td>
+				07503 / 91400</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0151 / 23989592</td>
+		</tr>
+		<tr>
+			<td>
+				Thomas W.</td>
+			<td>
+				07525 / 921974</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				0174 / 8570099</td>
+		</tr>
+	</tbody>
+</table>

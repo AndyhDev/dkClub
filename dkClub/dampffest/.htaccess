@@ -1,0 +1,6 @@
+#######################################################################
+#     Diese .htaccess wurde vom STRATO-Webservermanager erstellt      #
+#######################################################################
+
+Redirect 301 /dampffest/Kuerneinlad_12-eMail.pdf /index.php
+
